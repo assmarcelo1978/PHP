@@ -12,6 +12,8 @@
   $cor = isset($_GET["cor"]) ? $_GET["cor"] : "#000000";
   ?>
 
+
+
 <style>
     span.texto {
     font-size: <?php echo $tam; ?>;
